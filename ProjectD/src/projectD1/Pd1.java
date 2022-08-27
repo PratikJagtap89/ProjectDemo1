@@ -4,7 +4,7 @@ public class Pd1 {
 
 	public static void main (String [] args) {
 
-		System.out.println ("hii brooo");
+		System.out.println ("hii brooo vakanda");
 	}
 
 }
